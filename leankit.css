@@ -20,6 +20,14 @@ ul {
  height: auto !important;
 }
 
-.kb-droplane-info{
+.kb-droplane-info, .card-context-icon-box{
     display: none !important;
+}
+
+.text, .card-header, .text-with-header{
+   width: auto !important;
+}
+div.text.withHeader{
+    height: auto !important;
+    padding: 5px;
 }
