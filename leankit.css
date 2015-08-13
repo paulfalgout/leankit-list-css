@@ -1,0 +1,25 @@
+#boards_container {
+    width: 99% ;
+}
+
+* {
+    float: none ;
+}
+
+ul {
+    height: auto ;
+}
+
+.card {
+    width: auto ;
+    height: auto ;
+    margin: 0 0 10px ;
+}
+.card-background{
+ width: auto !important;
+ height: auto !important;
+}
+
+.kb-droplane-info{
+    display: none;
+}
