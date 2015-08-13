@@ -27,7 +27,7 @@ ul {
 .text, .card-header, .text-with-header{
    width: auto !important;
 }
-div.text.withHeader{
+div.text.withHeader, .withContext{
     height: auto !important;
     padding: 5px;
 }
