@@ -27,7 +27,10 @@ ul {
 .text, .card-header, .text-with-header{
    width: auto !important;
 }
-div.text.withHeader, .withContext{
+div.text.withHeader, .withContext, .text{
     height: auto !important;
     padding: 5px;
+}
+ul.laneContents {
+    min-height: 40px !important;
 }
